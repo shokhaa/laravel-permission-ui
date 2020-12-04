@@ -10,7 +10,7 @@
     ],
     "minimum-stability": "stable",
     "require": {
-        "spatie/laravel-permission": "^2.37",
+        "spatie/laravel-permission": "^3.18",
         "laravelcollective/html": "^5.8"
     },
     "autoload": {
